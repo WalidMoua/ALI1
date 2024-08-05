@@ -12,8 +12,8 @@
 <p>​​Definitions of Linear Equation, System of Linear Equations, Solution Set, Equivalent Systems, Consistent/inconsistent Equations.</p>
 
 <ul>
-	✅<li>Definitions of Coefficient Matrix and Augmented Matrix. Know how to write down Coefficient (Augmented) Matrix for any linear systems. Know how to find corresponding linear systems based on augmented matrix.</li>
-	✅<li>Definitions of the three Elementary Row Operations (Replacement, interchange, Scaling)</li>
+	<li>✅Definitions of Coefficient Matrix and Augmented Matrix. Know how to write down Coefficient (Augmented) Matrix for any linear systems. Know how to find corresponding linear systems based on augmented matrix.</li>
+	<li>✅Definitions of the three Elementary Row Operations (Replacement, interchange, Scaling)</li>
 	<li>Definitions of Echelon Form and Reduced Echelon Form.</li>
 	<li>Definitions of Pivot Positions and Pivot Columns.</li>
 	<li>Theorem 1 on Uniqueness of the reduced echelon form.</li>
